@@ -1,7 +1,7 @@
-Olá, Eu sou o Gabriel Sena ! 
+<h4>Olá, Eu sou o Gabriel Sena ! 
 <br>
 <br>
-Sou estudante de Análise e desenvolvimento de sistemas pelo Centro Universitário Eniac, e tenho experiência em algumas linguagens voltadas para Front-End.
+Sou estudante de Análise e desenvolvimento de sistemas pelo Centro Universitário Eniac, e tenho experiência em algumas linguagens voltadas para Front-End. </h4>
 
 ##
 
